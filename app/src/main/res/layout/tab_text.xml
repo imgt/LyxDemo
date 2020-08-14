@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_custom_tab"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#000"
+    android:gravity="center"
+    tools:text="美丽乡村"
+    android:textSize="14sp" />
